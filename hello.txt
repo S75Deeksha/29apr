@@ -1,3 +1,1 @@
-
-hello amity unversity bangalore
-btech cse 
+this is the new updated version after i wanted to commit pull command
