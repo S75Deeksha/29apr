@@ -1,6 +1,8 @@
 
 hello i am at amity university bengalore
 CSE
+
 robot
-LAW
+ece
+design
 computer
